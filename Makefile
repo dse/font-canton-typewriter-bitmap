@@ -8,3 +8,6 @@ dist/bdf/%.bdf: src/%.bdf.txt
 	mkdir -p dist/bdf
 	$(BDF_SCRIPT) "$<" >"$@.tmp"
 	mv "$@.tmp" "$@"
+
+clean:
+	find dist/bdf -type f -name '*.bdf' -exec rm {} +
