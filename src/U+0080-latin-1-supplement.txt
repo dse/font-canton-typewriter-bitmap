@@ -1,0 +1,2400 @@
+STARTCHAR nbspace
+ENCODING 160
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR exclamdown
+ENCODING 161
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|    #     |
+|   ###    |
+|    #     |
+|          |
+|          |
+|    #     |
+|    #     |
++   ###    +
+|   ###    |
+|   ###    |
+|    #     |
+|          |
+ENDCHAR
+STARTCHAR cent
+ENCODING 162
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|       #  |
+|       #  |
+|      #   |
+|   ####   |
+|  #  ###  |
+| #   # #  |
+| #  #     |
+| #  #     |
+| # #      |
+| ###   #  |
++  #####   +
+|  #       |
+| #        |
+| #        |
+|          |
+ENDCHAR
+STARTCHAR sterling
+ENCODING 163
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|   ###    |
+|  #  ##   |
+|  #  ##   |
+|  ##      |
+| #####    |
+|   #      |
+|   #      |
+| ####   # |
+|## ###  # |
++ ##  ###  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR currency
+ENCODING 164
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|##     ## |
+| #######  |
+|  ## ##   |
+| ##   ##  |
+| #     #  |
+| ##   ##  |
+|  ## ##   |
+| #######  |
++##     ## +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR yen
+ENCODING 165
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|###   ### |
+| #     #  |
+| ##   #   |
+|  ##  #   |
+| #######  |
+|   ##     |
+| #######  |
+|    #     |
+|    #     |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR brokenbar
+ENCODING 166
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|          |
+|          |
+|          |
+|          |
+|    #     |
++    #     +
+|    #     |
+|    #     |
+|    #     |
+|          |
+ENDCHAR
+STARTCHAR section
+ENCODING 167
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|   ###    |
+|  #  ##   |
+|  #   #   |
+|  ##      |
+|   ##     |
+|  # ##    |
+|  #  ##   |
+|  ##  #   |
+|   ## #   |
+|    ##    |
++     ##   +
+|  #   #   |
+|  ##  #   |
+|   ###    |
+|          |
+ENDCHAR
+STARTCHAR dieresis
+ENCODING 168
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|  #   #   |
+| ### ###  |
+|  #   #   |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR copyright
+ENCODING 169
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|  #####   |
+| #     #  |
+|#  ###  # |
+|# ## ## # |
+|# #     # |
+|# #     # |
+|# ## ## # |
+|#  ###  # |
+| #     #  |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR ordfeminine
+ENCODING 170
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|   ####   |
+|  #   ##  |
+|       #  |
+|   #####  |
+|  #    #  |
+| #     #  |
+| ##   ##  |
+|  ####  # |
+|          |
+|  #####   |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR guillemotleft
+ENCODING 171
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|    #   # |
+|   #   #  |
+|  #   #   |
+| ##  ##   |
+|##  ##    |
+| ##  ##   |
+|  #   #   |
++   #   #  +
+|    #   # |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR logicalnot
+ENCODING 172
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+| #######  |
+|       #  |
+|       #  |
+|       #  |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR sfthyphen
+ENCODING 173
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|  #####   |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR registered
+ENCODING 174
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|  #####   |
+| #     #  |
+|# ####  # |
+|# #  ## # |
+|# #   # # |
+|# ####  # |
+|# #  ## # |
+|# #   # # |
+| #     #  |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR macron
+ENCODING 175
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|  #####   |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR degree
+ENCODING 176
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|   ###    |
+|  #   #   |
+|  #   #   |
+|  #   #   |
+|   ###    |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR plusminus
+ENCODING 177
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|    #     |
+|    #     |
+|    #     |
+| #######  |
+|    #     |
+|    #     |
+|    #     |
+|          |
++ #######  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR twosuperior
+ENCODING 178
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|   ###    |
+|  #  ##   |
+|      #   |
+|     #    |
+|    #     |
+|   #  #   |
+|  #####   |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR threesuperior
+ENCODING 179
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|   ###    |
+|  #  ##   |
+|      #   |
+|    ##    |
+|     ##   |
+|  #   #   |
+|   ###    |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR acute
+ENCODING 180
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|      #   |
+|     #    |
+|    #     |
+|   #      |
+|  #       |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR mu
+ENCODING 181
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+| ##   ##  |
+|  #    #  |
+|  #    #  |
+|  #    #  |
+| #    #   |
+| #    #   |
+| ##  ##   |
++ # ##  #  +
+|#         |
+|#         |
+|#         |
+|          |
+ENDCHAR
+STARTCHAR paragraph
+ENCODING 182
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|   #####  |
+|  ### #   |
+| #### #   |
+| #### #   |
+| #### #   |
+|  ### #   |
+|   ## #   |
+|    # #   |
+|    # #   |
+|    # #   |
++    # #   +
+|    # #   |
+|    # #   |
+|    # #   |
+|          |
+ENDCHAR
+STARTCHAR periodcentered
+ENCODING 183
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|    #     |
+|   ###    |
+|    #     |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR cedilla
+ENCODING 184
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++    #     +
+|   #      |
+|   ###    |
+|     ##   |
+|   ###    |
+ENDCHAR
+STARTCHAR onesuperior
+ENCODING 185
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|    #     |
+|  ###     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|  #####   |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR ordmasculine
+ENCODING 186
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
+|  ####    |
+|          |
+|  #####   |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR guillemotright
+ENCODING 187
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|#   #     |
+| #   #    |
+|  #   #   |
+|  ##  ##  |
+|   ##  ## |
+|  ##  ##  |
+|  #   #   |
++ #   #    +
+|#   #     |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR onequarter
+ENCODING 188
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|    #     |
+|  ###     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|  #####   |
+|          |
+| #######  |
+|          |
+|      #   |
+|     #    |
++    #     +
+|   # #    |
+|  #####   |
+|     #    |
+|    ###   |
+ENDCHAR
+STARTCHAR onehalf
+ENCODING 189
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|    #     |
+|  ###     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|  #####   |
+|          |
+| #######  |
+|          |
+|   ###    |
+|  #  ##   |
++      #   +
+|     #    |
+|    #     |
+|   #  #   |
+|  #####   |
+ENDCHAR
+STARTCHAR threequarters
+ENCODING 190
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|   ###    |
+|  #  ##   |
+|      #   |
+|    ##    |
+|     ##   |
+|  #   #   |
+|   ###    |
+|          |
+| #######  |
+|          |
+|      #   |
+|     #    |
++    #     +
+|   # #    |
+|  #####   |
+|     #    |
+|    ###   |
+ENDCHAR
+STARTCHAR questiondown
+ENCODING 191
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|    #     |
+|   ###    |
+|    #     |
+|          |
+|    #     |
+|   #      |
+|  #       |
++ #     #  +
+| ##   #   |
+|  ####    |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Agrave
+ENCODING 192
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|  ##      |
+|    ##    |
+|      #   |
+|          |
+|    #     |
+|    #     |
+|   ###    |
+|   # #    |
+|   # #    |
+|  #   #   |
+|  #####   |
+| #    ##  |
+| #     #  |
++###   ### +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Aacute
+ENCODING 193
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|     ##   |
+|   ##     |
+|  #       |
+|          |
+|    #     |
+|    #     |
+|   ###    |
+|   # #    |
+|   # #    |
+|  #   #   |
+|  #####   |
+| #    ##  |
+| #     #  |
++###   ### +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Acircumflex
+ENCODING 194
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|    #     |
+|   # #    |
+|  #   #   |
+|          |
+|    #     |
+|    #     |
+|   ###    |
+|   # #    |
+|   # #    |
+|  #   #   |
+|  #####   |
+| #    ##  |
+| #     #  |
++###   ### +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Atilde
+ENCODING 195
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|  ##   #  |
+| # ### #  |
+| #   ##   |
+|          |
+|    #     |
+|    #     |
+|   ###    |
+|   # #    |
+|   # #    |
+|  #   #   |
+|  #####   |
+| #    ##  |
+| #     #  |
++###   ### +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Adieresis
+ENCODING 196
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|  #   #   |
+| ### ###  |
+|  #   #   |
+|          |
+|    #     |
+|    #     |
+|   ###    |
+|   # #    |
+|   # #    |
+|  #   #   |
+|  #####   |
+| #    ##  |
+| #     #  |
++###   ### +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Aring
+ENCODING 197
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|   ###    |
+|  #   #   |
+|   ###    |
+|          |
+|    #     |
+|    #     |
+|   ###    |
+|   # #    |
+|   # #    |
+|  #   #   |
+|  #####   |
+| #    ##  |
+| #     #  |
++###   ### +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR AE
+ENCODING 198
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|   ###### |
+|    ##  # |
+|   # #  # |
+|   # #    |
+|   # ###  |
+|  #  #    |
+|  ####    |
+|  #  #  # |
+| #   #  # |
++### ##### +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Ccedilla
+ENCODING 199
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|    ## #  |
+|  ##  ##  |
+|  #    #  |
+| #     #  |
+| #        |
+| #        |
+| #        |
+| ##    #  |
+|  ##  #   |
++   ###    +
+|    #     |
+|    ##    |
+|     ##   |
+|   ###    |
+ENDCHAR
+STARTCHAR Egrave
+ENCODING 200
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|  ##      |
+|    ##    |
+|      #   |
+|          |
+|########  |
+|  #    #  |
+|  #    #  |
+|  #  #    |
+|  ####    |
+|  #  #    |
+|  #       |
+|  #    #  |
+|  #    #  |
++########  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Eacute
+ENCODING 201
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|     ##   |
+|   ##     |
+|  #       |
+|          |
+|########  |
+|  #    #  |
+|  #    #  |
+|  #  #    |
+|  ####    |
+|  #  #    |
+|  #       |
+|  #    #  |
+|  #    #  |
++########  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Ecircumflex
+ENCODING 202
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|    #     |
+|   # #    |
+|  #   #   |
+|          |
+|########  |
+|  #    #  |
+|  #    #  |
+|  #  #    |
+|  ####    |
+|  #  #    |
+|  #       |
+|  #    #  |
+|  #    #  |
++########  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Edieresis
+ENCODING 203
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|  #   #   |
+| ### ###  |
+|  #   #   |
+|          |
+|########  |
+|  #    #  |
+|  #    #  |
+|  #  #    |
+|  ####    |
+|  #  #    |
+|  #       |
+|  #    #  |
+|  #    #  |
++########  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Igrave
+ENCODING 204
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|  ##      |
+|    ##    |
+|      #   |
+|          |
+|  #####   |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Iacute
+ENCODING 205
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|     ##   |
+|   ##     |
+|  #       |
+|          |
+|  #####   |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Icircumflex
+ENCODING 206
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|    #     |
+|   # #    |
+|  #   #   |
+|          |
+|  #####   |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Idieresis
+ENCODING 207
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|  #   #   |
+| ### ###  |
+|  #   #   |
+|          |
+|  #####   |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Eth
+ENCODING 208
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|######    |
+|  #  ##   |
+|  #   ##  |
+|  #    #  |
+|  #    #  |
+|#####  #  |
+|  #    #  |
+|  #   #   |
+|  #  ##   |
++#####     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Ntilde
+ENCODING 209
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|  ##   #  |
+| # ### #  |
+| #   ##   |
+|          |
+|##    ### |
+| ##    #  |
+| ###   #  |
+| # #   #  |
+| # ##  #  |
+| #  ## #  |
+| #   # #  |
+| #   ###  |
+| #    ##  |
++###    #  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Ograve
+ENCODING 210
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|  ##      |
+|    ##    |
+|      #   |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Oacute
+ENCODING 211
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|     ##   |
+|   ##     |
+|  #       |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Ocircumflex
+ENCODING 212
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|    #     |
+|   # #    |
+|  #   #   |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Otilde
+ENCODING 213
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|  ##   #  |
+| # ### #  |
+| #   ##   |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Odieresis
+ENCODING 214
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|  #   #   |
+| ### ###  |
+|  #   #   |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR multiply
+ENCODING 215
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+| #     #  |
+|  #   #   |
+|   # #    |
+|    #     |
+|   # #    |
+|  #   #   |
+| #     #  |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Oslash
+ENCODING 216
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|       #  |
+|   ####   |
+|  #   ##  |
+| #   # #  |
+| #   # #  |
+| #  #  #  |
+| #  #  #  |
+| # #   #  |
+| # #   #  |
+| ##   #   |
++  ####    +
+| #        |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Ugrave
+ENCODING 217
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|  ##      |
+|    ##    |
+|      #   |
+|          |
+|###   ### |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Uacute
+ENCODING 218
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|     ##   |
+|   ##     |
+|  #       |
+|          |
+|###   ### |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Ucircumflex
+ENCODING 219
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|    #     |
+|   # #    |
+|  #   #   |
+|          |
+|###   ### |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Udieresis
+ENCODING 220
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|  #   #   |
+| ### ###  |
+|  #   #   |
+|          |
+|###   ### |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Yacute
+ENCODING 221
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|     ##   |
+|   ##     |
+|  #       |
+|          |
+|###   ### |
+| #     #  |
+| ##   #   |
+|  ##  #   |
+|   # #    |
+|   ##     |
+|    #     |
+|    #     |
+|    #     |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Thorn
+ENCODING 222
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|#####     |
+|  #       |
+|  #####   |
+|  #   ##  |
+|  #    #  |
+|  #    #  |
+|  #   #   |
+|  ####    |
+|  #       |
++#####     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR germandbls
+ENCODING 223
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|    ###   |
+|   #  ##  |
+|  #    #  |
+|  #   #   |
+|  #  ###  |
+|  #    ## |
+|  #     # |
+|  #     # |
+|  # #  #  |
++###  ##   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR agrave
+ENCODING 224
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|  ##      |
+|    ##    |
+|      #   |
+|          |
+|   ####   |
+|  #   ##  |
+|       #  |
+|   #####  |
+|  #    #  |
+| #     #  |
+| ##   ##  |
++  ####  # +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR aacute
+ENCODING 225
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|     ##   |
+|   ##     |
+|  #       |
+|          |
+|   ####   |
+|  #   ##  |
+|       #  |
+|   #####  |
+|  #    #  |
+| #     #  |
+| ##   ##  |
++  ####  # +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR acircumflex
+ENCODING 226
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|    #     |
+|   # #    |
+|  #   #   |
+|          |
+|   ####   |
+|  #   ##  |
+|       #  |
+|   #####  |
+|  #    #  |
+| #     #  |
+| ##   ##  |
++  ####  # +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR atilde
+ENCODING 227
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|  ##   #  |
+| # ### #  |
+| #   ##   |
+|          |
+|   ####   |
+|  #   ##  |
+|       #  |
+|   #####  |
+|  #    #  |
+| #     #  |
+| ##   ##  |
++  ####  # +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR adieresis
+ENCODING 228
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|  #   #   |
+| ### ###  |
+|  #   #   |
+|          |
+|   ####   |
+|  #   ##  |
+|       #  |
+|   #####  |
+|  #    #  |
+| #     #  |
+| ##   ##  |
++  ####  # +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR aring
+ENCODING 229
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|   ###    |
+|  #   #   |
+|  #   #   |
+|   ###    |
+|          |
+|   ####   |
+|  #   ##  |
+|       #  |
+|   #####  |
+|  #    #  |
+| #     #  |
+| ##   ##  |
++  ####  # +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR ae
+ENCODING 230
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|  ## ###  |
+| # ##  ## |
+|    #   # |
+|  ######  |
+| #  #     |
+|#   #     |
+|##  ##  # |
++ ### ###  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR ccedilla
+ENCODING 231
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| #        |
+| #        |
+| #        |
+| ##    #  |
++  #####   +
+|    #     |
+|    ##    |
+|     ##   |
+|   ###    |
+ENDCHAR
+STARTCHAR egrave
+ENCODING 232
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|  ##      |
+|    ##    |
+|      #   |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| ######   |
+| #        |
+| #        |
+| ##    #  |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR eacute
+ENCODING 233
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|     ##   |
+|   ##     |
+|  #       |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| ######   |
+| #        |
+| #        |
+| ##    #  |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR ecircumflex
+ENCODING 234
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|    #     |
+|   # #    |
+|  #   #   |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| ######   |
+| #        |
+| #        |
+| ##    #  |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR edieresis
+ENCODING 235
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|  #   #   |
+| ### ###  |
+|  #   #   |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| ######   |
+| #        |
+| #        |
+| ##    #  |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR igrave
+ENCODING 236
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+| ##       |
+|   ##     |
+|     #    |
+|          |
+|  ###     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
++ #######  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR iacute
+ENCODING 237
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|    ##    |
+|  ##      |
+| #        |
+|          |
+|  ###     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
++ #######  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR icircumflex
+ENCODING 238
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|   #      |
+|  # #     |
+| #   #    |
+|          |
+|  ###     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
++ #######  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR idieresis
+ENCODING 239
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+| #   #    |
+|### ###   |
+| #   #    |
+|          |
+|  ###     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
++ #######  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR eth
+ENCODING 240
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|  #   #   |
+|  ## ##   |
+|   ##     |
+| ## ##    |
+| #   ##   |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR ntilde
+ENCODING 241
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|  ##   #  |
+| # ### #  |
+| #   ##   |
+|          |
+|##  ###   |
+| # #  ##  |
+| ##    #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
++###   ### +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR ograve
+ENCODING 242
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|  ##      |
+|    ##    |
+|      #   |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR oacute
+ENCODING 243
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|     ##   |
+|   ##     |
+|  #       |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR ocircumflex
+ENCODING 244
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|    #     |
+|   # #    |
+|  #   #   |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR otilde
+ENCODING 245
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|  ##   #  |
+| # ### #  |
+| #   ##   |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR odieresis
+ENCODING 246
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|  #   #   |
+| ### ###  |
+|  #   #   |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR divide
+ENCODING 247
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|    #     |
+|   ###    |
+|    #     |
+|          |
+| #######  |
+|          |
+|    #     |
+|   ###    |
++    #     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR oslash
+ENCODING 248
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|       #  |
+|   ####   |
+|  #   ##  |
+| #   # #  |
+| #  #  #  |
+| #  #  #  |
+| # #   #  |
+| ##   #   |
++  ####    +
+| #        |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR ugrave
+ENCODING 249
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|  ##      |
+|    ##    |
+|      #   |
+|          |
+|##    ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #    ##  |
+| ##  # #  |
++  ###  ## +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR uacute
+ENCODING 250
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|     ##   |
+|   ##     |
+|  #       |
+|          |
+|##    ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #    ##  |
+| ##  # #  |
++  ###  ## +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR ucircumflex
+ENCODING 251
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|    #     |
+|   # #    |
+|  #   #   |
+|          |
+|##    ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #    ##  |
+| ##  # #  |
++  ###  ## +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR udieresis
+ENCODING 252
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|  #   #   |
+| ### ###  |
+|  #   #   |
+|          |
+|##    ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #    ##  |
+| ##  # #  |
++  ###  ## +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR yacute
+ENCODING 253
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|     ##   |
+|   ##     |
+|  #       |
+|          |
+|###   ### |
+| #     #  |
+| ##   #   |
+|  #   #   |
+|  ## #    |
+|   # #    |
+|   ##     |
++    #     +
+|   #      |
+|###       |
+| #        |
+|          |
+ENDCHAR
+STARTCHAR thorn
+ENCODING 254
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|##        |
+| #        |
+| #        |
+| #  ###   |
+| # #  ##  |
+| ##    #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++ # ###    +
+| #        |
+| #        |
+|####      |
+|          |
+ENDCHAR
+STARTCHAR ydieresis
+ENCODING 255
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|  #   #   |
+| ### ###  |
+|  #   #   |
+|          |
+|###   ### |
+| #     #  |
+| ##   #   |
+|  #   #   |
+|  ## #    |
+|   # #    |
+|   ##     |
++    #     +
+|   #      |
+|###       |
+| #        |
+|          |
+ENDCHAR

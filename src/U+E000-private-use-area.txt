@@ -1,0 +1,100 @@
+STARTCHAR uniE000
+ENCODING 57344
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|##########|
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR uniE001
+ENCODING 57345
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|##########|
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR uniE002
+ENCODING 57346
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++##########+
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR uniE003
+ENCODING 57347
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|##########|
+ENDCHAR

@@ -1,0 +1,275 @@
+STARTCHAR SF040000
+ENCODING 9496
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|#####     |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR SF030000
+ENCODING 9488
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|#####     |
+|    #     |
+|    #     |
+|    #     |
++    #     +
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+ENDCHAR
+STARTCHAR SF010000
+ENCODING 9484
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|    ######|
+|    #     |
+|    #     |
+|    #     |
++    #     +
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+ENDCHAR
+STARTCHAR SF020000
+ENCODING 9492
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    ######|
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR SF050000
+ENCODING 9532
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|##########|
+|    #     |
+|    #     |
+|    #     |
++    #     +
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+ENDCHAR
+STARTCHAR SF100000
+ENCODING 9472
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|##########|
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR SF080000
+ENCODING 9500
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    ######|
+|    #     |
+|    #     |
+|    #     |
++    #     +
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+ENDCHAR
+STARTCHAR SF090000
+ENCODING 9508
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|#####     |
+|    #     |
+|    #     |
+|    #     |
++    #     +
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+ENDCHAR
+STARTCHAR SF070000
+ENCODING 9524
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|##########|
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR SF060000
+ENCODING 9516
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|##########|
+|    #     |
+|    #     |
+|    #     |
++    #     +
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+ENDCHAR
+STARTCHAR SF110000
+ENCODING 9474
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
++    #     +
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+ENDCHAR

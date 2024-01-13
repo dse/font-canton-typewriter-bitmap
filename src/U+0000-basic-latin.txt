@@ -1,0 +1,2375 @@
+STARTCHAR space
+ENCODING 32
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR exclam
+ENCODING 33
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|    #     |
+|   ###    |
+|   ###    |
+|   ###    |
+|    #     |
+|    #     |
+|          |
+|          |
+|    #     |
+|   ###    |
++    #     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR quotedbl
+ENCODING 34
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|  #   #   |
+| ### ###  |
+| ### ###  |
+|  #   #   |
+|  #   #   |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR numbersign
+ENCODING 35
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|     #  # |
+|     #  # |
+|    #  #  |
+|    #  #  |
+|   #  #   |
+|######### |
+|   #  #   |
+|  #  #    |
+|######### |
+|  #  #    |
++ #  #     +
+| #  #     |
+|#  #      |
+|#  #      |
+|          |
+ENDCHAR
+STARTCHAR dollar
+ENCODING 36
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|    #     |
+|    #     |
+|   ####   |
+|  # # ##  |
+| #  #  #  |
+| ## #     |
+|  #####   |
+|    # ##  |
+|    #  #  |
+| #  #  #  |
+| ## # #   |
++  ####    +
+|    #     |
+|    #     |
+|          |
+|          |
+ENDCHAR
+STARTCHAR percent
+ENCODING 37
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|  ##   #  |
+| # ## #   |
+|#   # #   |
+|## # #    |
+| ## #     |
+|    # ##  |
+|   # # ## |
+|  # #   # |
+|  # ## #  |
++ #   ##   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR ampersand
+ENCODING 38
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|   ##     |
+|  # ##    |
+| #   #    |
+| ## #     |
+|  ##   ## |
+| # ##  #  |
+|#   # #   |
+|#   ##    |
+|## # ## # |
++ ##   ##  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR quotesingle
+ENCODING 39
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|    #     |
+|   ###    |
+|   ###    |
+|    #     |
+|    #     |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR parenleft
+ENCODING 40
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|      #   |
+|     #    |
+|    #     |
+|    #     |
+|   #      |
+|   #      |
+|   #      |
+|   #      |
+|   #      |
+|   ##     |
++    #     +
+|    ##    |
+|     ###  |
+|      #   |
+|          |
+ENDCHAR
+STARTCHAR parenright
+ENCODING 41
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|  #       |
+| ###      |
+|   ##     |
+|    #     |
+|    ##    |
+|     #    |
+|     #    |
+|     #    |
+|     #    |
+|     #    |
++    #     +
+|    #     |
+|   #      |
+|  #       |
+|          |
+ENDCHAR
+STARTCHAR asterisk
+ENCODING 42
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|    #     |
+| #  #  #  |
+| ## # ##  |
+|   ###    |
+|   ###    |
+| ## # ##  |
+| #  #  #  |
+|    #     |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR plus
+ENCODING 43
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|    #     |
+|    #     |
+|    #     |
+| #######  |
+|    #     |
+|    #     |
+|    #     |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR comma
+ENCODING 44
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|    #     |
+|   ###    |
++    ##    +
+|    #     |
+|   #      |
+|  #       |
+|          |
+ENDCHAR
+STARTCHAR hyphen
+ENCODING 45
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+| #######  |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR period
+ENCODING 46
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|    #     |
+|   ###    |
++    #     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR slash
+ENCODING 47
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|       #  |
+|       #  |
+|      #   |
+|      #   |
+|     #    |
+|     #    |
+|    #     |
+|    #     |
+|   #      |
+|   #      |
++  #       +
+|  #       |
+| #        |
+| #        |
+|          |
+ENDCHAR
+STARTCHAR zero
+ENCODING 48
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|   ###    |
+|  #  ##   |
+|  #   ##  |
+| #     #  |
+| #  #  #  |
+| #  #  #  |
+| #     #  |
+| ##   #   |
+|  ##  #   |
++   ###    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR one
+ENCODING 49
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|    #     |
+|   ##     |
+| ## #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
++ #######  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR two
+ENCODING 50
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+|       #  |
+|      #   |
+|     #    |
+|    #     |
+|   #      |
+|  #    #  |
++ #######  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR three
+ENCODING 51
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+|      #   |
+|    ###   |
+|      ##  |
+|       #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR four
+ENCODING 52
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|       #  |
+|      #   |
+|     #    |
+|    #     |
+|   #  #   |
+|  #   #   |
+| #######  |
+|      #   |
+|      #   |
++     ###  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR five
+ENCODING 53
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|  ######  |
+|  #       |
+|  #       |
+|  #       |
+|  #####   |
+|      ##  |
+|       #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR six
+ENCODING 54
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|     ##   |
+|   ##     |
+|  #       |
+|  #       |
+| #  ###   |
+| # #  ##  |
+| ##    #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR seven
+ENCODING 55
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+| #######  |
+| #     #  |
+| #    #   |
+|     #    |
+|     #    |
+|    #     |
+|   #      |
+|   #      |
+|  #       |
++  #       +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR eight
+ENCODING 56
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| ##   #   |
+|   ###    |
+|  #   ##  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR nine
+ENCODING 57
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| #    ##  |
+| ##  # #  |
+|  ###  #  |
+|      #   |
+|      #   |
+|    ##    |
++  ##      +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR colon
+ENCODING 58
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|    #     |
+|   ###    |
+|    #     |
+|          |
+|          |
+|    #     |
+|   ###    |
++    #     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR semicolon
+ENCODING 59
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|    #     |
+|   ###    |
+|    #     |
+|          |
+|          |
+|    #     |
+|   ###    |
++    ##    +
+|    #     |
+|   #      |
+|  #       |
+|          |
+ENDCHAR
+STARTCHAR less
+ENCODING 60
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|       #  |
+|     ##   |
+|    #     |
+|  ##      |
+| #        |
+|  ##      |
+|    #     |
+|     ##   |
++       #  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR equal
+ENCODING 61
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+| #######  |
+|          |
+|          |
+| #######  |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR greater
+ENCODING 62
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+| #        |
+|  ##      |
+|    #     |
+|     ##   |
+|       #  |
+|     ##   |
+|    #     |
+|  ##      |
++ #        +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR question
+ENCODING 63
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+|      #   |
+|     #    |
+|    #     |
+|          |
+|    #     |
+|   ###    |
++    #     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR at
+ENCODING 64
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|   #####  |
+| ##    ## |
+| #   #  # |
+|#   # # # |
+|#  #  # # |
+|#  #  # # |
+|#  ## ##  |
+|##  ###   |
+| ##       |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR A
+ENCODING 65
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|    #     |
+|    #     |
+|   ###    |
+|   # #    |
+|   # #    |
+|  #   #   |
+|  #####   |
+| #    ##  |
+| #     #  |
++###   ### +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR B
+ENCODING 66
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|######    |
+|  #  ##   |
+|  #   #   |
+|  #  #    |
+|  #####   |
+|  #   ##  |
+|  #    #  |
+|  #    #  |
+|  #   #   |
++######    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR C
+ENCODING 67
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|    ## #  |
+|  ##  ##  |
+|  #    #  |
+| #     #  |
+| #        |
+| #        |
+| #        |
+| ##    #  |
+|  ##  #   |
++   ###    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR D
+ENCODING 68
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|######    |
+|  #  ##   |
+|  #   ##  |
+|  #    #  |
+|  #    #  |
+|  #    #  |
+|  #    #  |
+|  #   #   |
+|  #  ##   |
++#####     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR E
+ENCODING 69
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|########  |
+|  #    #  |
+|  #    #  |
+|  #  #    |
+|  ####    |
+|  #  #    |
+|  #       |
+|  #    #  |
+|  #    #  |
++########  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR F
+ENCODING 70
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|########  |
+|  #    #  |
+|  #    #  |
+|  #       |
+|  #  #    |
+|  ####    |
+|  #  #    |
+|  #       |
+|  #       |
++#####     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR G
+ENCODING 71
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|    ## #  |
+|  ##  ##  |
+|  #    #  |
+| #        |
+| #        |
+| #   #### |
+| #     #  |
+| ##    #  |
+|  ##  ##  |
++   ### #  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR H
+ENCODING 72
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|###   ### |
+| #     #  |
+| #     #  |
+| #     #  |
+| #######  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
++###   ### +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR I
+ENCODING 73
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|  #####   |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR J
+ENCODING 74
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|  #####   |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|   #      |
++   #      +
+|   #      |
+|  #       |
+| #        |
+|#         |
+ENDCHAR
+STARTCHAR K
+ENCODING 75
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|###   ### |
+| #    #   |
+| #   #    |
+| #  #     |
+| # ##     |
+| ##  #    |
+| #   #    |
+| #    #   |
+| #     #  |
++###   ### +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR L
+ENCODING 76
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|#####     |
+|  #       |
+|  #       |
+|  #       |
+|  #       |
+|  #       |
+|  #       |
+|  #    #  |
+|  #    #  |
++########  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR M
+ENCODING 77
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|##     ## |
+| ##   ##  |
+| ##   ##  |
+| ### # #  |
+| # # # #  |
+| # ##  #  |
+| #  #  #  |
+| #  #  #  |
+| #     #  |
++###   ### +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR N
+ENCODING 78
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|##    ### |
+| ##    #  |
+| ###   #  |
+| # #   #  |
+| # ##  #  |
+| #  ## #  |
+| #   # #  |
+| #   ###  |
+| #    ##  |
++###    #  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR O
+ENCODING 79
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR P
+ENCODING 80
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|#######   |
+|  #   ##  |
+|  #    #  |
+|  #    #  |
+|  #   #   |
+|  ####    |
+|  #       |
+|  #       |
+|  #       |
++#####     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Q
+ENCODING 81
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|    #     |
+|    ##    |
+|     ###  |
+|          |
+ENDCHAR
+STARTCHAR R
+ENCODING 82
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|#######   |
+|  #   ##  |
+|  #    #  |
+|  #    #  |
+|  #   #   |
+|  ####    |
+|  # ##    |
+|  #  ##   |
+|  #   ##  |
++#####  ## +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR S
+ENCODING 83
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| ##       |
+|  #####   |
+|      ##  |
+|       #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR T
+ENCODING 84
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+| #######  |
+| #  #  #  |
+| #  #  #  |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR U
+ENCODING 85
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|###   ### |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR V
+ENCODING 86
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|###   ### |
+| #     #  |
+| ##   #   |
+|  #   #   |
+|  ##  #   |
+|   # #    |
+|   # #    |
+|   ##     |
+|    #     |
++    #     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR W
+ENCODING 87
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|###   ### |
+| #  #  #  |
+| #  #  #  |
+| #  ## #  |
+| # # # #  |
+| ### # #  |
+|  ## ##   |
+|  #   #   |
+|  #   #   |
++  #   #   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR X
+ENCODING 88
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|###   ### |
+|  #   #   |
+|  ##  #   |
+|   # #    |
+|   ##     |
+|    ##    |
+|   # #    |
+|  #  ##   |
+|  #   #   |
++###   ### +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Y
+ENCODING 89
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|###   ### |
+| #     #  |
+| ##   #   |
+|  ##  #   |
+|   # #    |
+|   ##     |
+|    #     |
+|    #     |
+|    #     |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR Z
+ENCODING 90
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+| #######  |
+| #    #   |
+| #    #   |
+|     #    |
+|    #     |
+|   #      |
+|   #      |
+|  #    #  |
+| #     #  |
++ #######  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR bracketleft
+ENCODING 91
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|   ###    |
+|   #      |
+|   #      |
+|   #      |
+|   #      |
+|   #      |
+|   #      |
+|   #      |
+|   #      |
+|   #      |
++   #      +
+|   #      |
+|   #      |
+|   ###    |
+|          |
+ENDCHAR
+STARTCHAR backslash
+ENCODING 92
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+| #        |
+| #        |
+|  #       |
+|  #       |
+|   #      |
+|   #      |
+|    #     |
+|    #     |
+|     #    |
+|     #    |
++      #   +
+|      #   |
+|       #  |
+|       #  |
+|          |
+ENDCHAR
+STARTCHAR bracketright
+ENCODING 93
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|   ###    |
+|     #    |
+|     #    |
+|     #    |
+|     #    |
+|     #    |
+|     #    |
+|     #    |
+|     #    |
+|     #    |
++     #    +
+|     #    |
+|     #    |
+|   ###    |
+|          |
+ENDCHAR
+STARTCHAR asciicircum
+ENCODING 94
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|    #     |
+|   # #    |
+|  #   #   |
+| #     #  |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR underscore
+ENCODING 95
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+| #######  |
+ENDCHAR
+STARTCHAR grave
+ENCODING 96
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|  ##      |
+|   ###    |
+|     ##   |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR a
+ENCODING 97
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|   ####   |
+|  #   ##  |
+|       #  |
+|   #####  |
+|  #    #  |
+| #     #  |
+| ##   ##  |
++  ####  # +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR b
+ENCODING 98
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|##        |
+| #        |
+| #        |
+| #  ###   |
+| # #  ##  |
+| ##    #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++ # ###    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR c
+ENCODING 99
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| #        |
+| #        |
+| #        |
+| ##    #  |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR d
+ENCODING 100
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|     ###  |
+|       #  |
+|       #  |
+|   ### #  |
+|  #   ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #    ##  |
+| ##  # #  |
++  ###  ## +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR e
+ENCODING 101
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| ######   |
+| #        |
+| #        |
+| ##    #  |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR f
+ENCODING 102
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|    ###   |
+|   #  ##  |
+|   #      |
+| #####    |
+|   #      |
+|   #      |
+|   #      |
+|   #      |
+|   #      |
+|   #      |
++ #####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR g
+ENCODING 103
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|      ##  |
+|      #   |
+|  #####   |
+| #    ##  |
+| #     #  |
+| #     #  |
+| ##    #  |
+|  #####   |
+|   #      |
++  #####   +
+| #    ##  |
+| ##    #  |
+|  #####   |
+|          |
+ENDCHAR
+STARTCHAR h
+ENCODING 104
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|##        |
+| #        |
+| #        |
+| #  ###   |
+| # #  ##  |
+| ##    #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
++###   ### +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR i
+ENCODING 105
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|    #     |
+|   ###    |
+|    #     |
+|          |
+|  ###     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
++ #######  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR j
+ENCODING 106
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|     #    |
+|    ###   |
+|     #    |
+|          |
+|   ###    |
+|     #    |
+|     #    |
+|     #    |
+|     #    |
+|     #    |
+|     #    |
++    #     +
+|    #     |
+|   #      |
+|  #       |
+| #        |
+ENDCHAR
+STARTCHAR k
+ENCODING 107
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|##        |
+| #        |
+| #        |
+| #   ###  |
+| #   #    |
+| #  #     |
+| # #      |
+| ## #     |
+| #   #    |
+| #    #   |
++###   ### +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR l
+ENCODING 108
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|  ###     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
++ #######  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR m
+ENCODING 109
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|## ## ##  |
+| ## ## #  |
+| #  #  #  |
+| #  #  #  |
+| #  #  #  |
+| #  #  #  |
+| #  #  #  |
++### ## ## +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR n
+ENCODING 110
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|##  ###   |
+| # #  ##  |
+| ##    #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
++###   ### +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR o
+ENCODING 111
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|   ####   |
+|  #   ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++  ####    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR p
+ENCODING 112
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|##  ###   |
+| # #  ##  |
+| ##    #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| ##   #   |
++ # ###    +
+| #        |
+| #        |
+|####      |
+|          |
+ENDCHAR
+STARTCHAR q
+ENCODING 113
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|   ### #  |
+|  #   ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #    ##  |
+| ##  # #  |
++  ###  #  +
+|       #  |
+|       #  |
+|     #### |
+|          |
+ENDCHAR
+STARTCHAR r
+ENCODING 114
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|### ###   |
+|  ##  ##  |
+|  #    #  |
+|  #       |
+|  #       |
+|  #       |
+|  #       |
++######    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR s
+ENCODING 115
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|  #####   |
+| #    ##  |
+| ##       |
+|  #####   |
+|      ##  |
+| #     #  |
+| ##    #  |
++  #####   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR t
+ENCODING 116
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|   #      |
+|   #      |
+| ######   |
+|   #      |
+|   #      |
+|   #      |
+|   #      |
+|   #      |
+|   ##  #  |
++    ###   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR u
+ENCODING 117
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|##    ##  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #     #  |
+| #    ##  |
+| ##  # #  |
++  ###  ## +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR v
+ENCODING 118
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|###   ### |
+| #     #  |
+| ##   #   |
+|  #   #   |
+|  ## #    |
+|   # #    |
+|   ##     |
++    #     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR w
+ENCODING 119
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|###   ### |
+| #  #  #  |
+| #  #  #  |
+| #  ## #  |
+| ### ##   |
+|  #  ##   |
+|  #   #   |
++  #   #   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR x
+ENCODING 120
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|###   ### |
+|  #   #   |
+|  ## #    |
+|   ##     |
+|    ##    |
+|   # ##   |
+|  #   #   |
++###   ### +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR y
+ENCODING 121
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|###   ### |
+| #     #  |
+| ##   #   |
+|  #   #   |
+|  ## #    |
+|   # #    |
+|   ##     |
++    #     +
+|   #      |
+|###       |
+| #        |
+|          |
+ENDCHAR
+STARTCHAR z
+ENCODING 122
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+| #######  |
+| #    #   |
+|     #    |
+|    #     |
+|    #     |
+|   #      |
+|  #    #  |
++ #######  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR braceleft
+ENCODING 123
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|      #   |
+|     #    |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|   #      |
+|  #       |
+|   #      |
+|    #     |
++    #     +
+|    #     |
+|    #     |
+|     #    |
+|      #   |
+ENDCHAR
+STARTCHAR bar
+ENCODING 124
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
++    #     +
+|    #     |
+|    #     |
+|    #     |
+|          |
+ENDCHAR
+STARTCHAR braceright
+ENCODING 125
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|  #       |
+|   #      |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|     #    |
+|      #   |
+|     #    |
+|    #     |
++    #     +
+|    #     |
+|    #     |
+|   #      |
+|  #       |
+ENDCHAR
+STARTCHAR asciitilde
+ENCODING 126
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|  ##    # |
+| # ### #  |
+|#    ##   |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
