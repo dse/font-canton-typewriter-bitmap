@@ -1,0 +1,25 @@
+STARTCHAR XXXXXXXXX
+ENCODING XXXXX
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
