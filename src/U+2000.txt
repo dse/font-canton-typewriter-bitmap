@@ -1,0 +1,2225 @@
+STARTCHAR char8192
+COMMENT U+2000 EN QUAD
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8193
+COMMENT U+2001 EM QUAD
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8194
+COMMENT U+2002 EN SPACE
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8195
+COMMENT U+2003 EM SPACE
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8196
+COMMENT U+2004 THREE-PER-EM SPACE
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8197
+COMMENT U+2005 FOUR-PER-EM SPACE
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8198
+COMMENT U+2006 SIX-PER-EM SPACE
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8199
+COMMENT U+2007 FIGURE SPACE
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8200
+COMMENT U+2008 PUNCTUATION SPACE
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8201
+COMMENT U+2009 THIN SPACE
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8202
+COMMENT U+200A HAIR SPACE
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8203
+COMMENT U+200B ZERO WIDTH SPACE
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8204
+COMMENT U+200C ZERO WIDTH NON-JOINER
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8205
+COMMENT U+200D ZERO WIDTH JOINER
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8206
+COMMENT U+200E LEFT-TO-RIGHT MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8207
+COMMENT U+200F RIGHT-TO-LEFT MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8208
+COMMENT U+2010 HYPHEN
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|  #####   |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8209
+COMMENT U+2011 NON-BREAKING HYPHEN
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|  #####   |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR figuredash
+COMMENT U+2012 FIGURE DASH
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+| #######  |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR endash
+COMMENT U+2013 EN DASH
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+| #######  |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR emdash
+COMMENT U+2014 EM DASH
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|######### |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8213
+COMMENT U+2015 HORIZONTAL BAR
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|######### |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8214
+COMMENT U+2016 DOUBLE VERTICAL LINE
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^   # #    ^
+|   # #    |
+|   # #    |
+|   # #    |
+|   # #    |
+|   # #    |
+|   # #    |
+|   # #    |
+|   # #    |
++   # #    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR underscoredbl
+COMMENT U+2017 DOUBLE LOW LINE
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+| #######  |
+|          |
+| #######  |
+ENDCHAR
+STARTCHAR quoteleft
+COMMENT U+2018 LEFT SINGLE QUOTATION MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^      #   ^
+|     #    |
+|    #     |
+|   ##     |
+|   ###    |
+|    #     |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR quoteright
+COMMENT U+2019 RIGHT SINGLE QUOTATION MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^    #     ^
+|   ###    |
+|    ##    |
+|    #     |
+|   #      |
+|  #       |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR quotesinglbase
+COMMENT U+201A SINGLE LOW-9 QUOTATION MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|    #     |
+|   ###    |
++    ##    +
+|    #     |
+|   #      |
+|  #       |
+|          |
+ENDCHAR
+STARTCHAR quotereversed
+COMMENT U+201B SINGLE HIGH-REVERSED-9 QUOTATION MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^    #     ^
+|   ###    |
+|   ##     |
+|    #     |
+|     #    |
+|      #   |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR quotedblleft
+COMMENT U+201C LEFT DOUBLE QUOTATION MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^    #   # ^
+|   #   #  |
+|  #   #   |
+| ##  ##   |
+| ### ###  |
+|  #   #   |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR quotedblright
+COMMENT U+201D RIGHT DOUBLE QUOTATION MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^  #   #   ^
+| ### ###  |
+|  ##  ##  |
+|  #   #   |
+| #   #    |
+|#   #     |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR quotedblbase
+COMMENT U+201E DOUBLE LOW-9 QUOTATION MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|  #   #   |
+| ### ###  |
++  ##  ##  +
+|  #   #   |
+| #   #    |
+|#   #     |
+|          |
+ENDCHAR
+STARTCHAR char8223
+COMMENT U+201F DOUBLE HIGH-REVERSED-9 QUOTATION MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^  #   #   ^
+| ### ###  |
+| ##  ##   |
+|  #   #   |
+|   #   #  |
+|    #   # |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR dagger
+COMMENT U+2020 DAGGER
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|    #     |
+|   ###    |
+|    #     |
+^  # # #   ^
+| #######  |
+|  # # #   |
+|    #     |
+|    #     |
+|   ###    |
+|   ###    |
+|   ###    |
+|    #     |
++    #     +
+|    #     |
+|    #     |
+|    #     |
+|          |
+ENDCHAR
+STARTCHAR daggerdbl
+COMMENT U+2021 DOUBLE DAGGER
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|    #     |
+|   ###    |
+|    #     |
+^  # # #   ^
+| #######  |
+|  # # #   |
+|    #     |
+|    #     |
+|    #     |
+|    #     |
+|  # # #   |
+| #######  |
++  # # #   +
+|    #     |
+|   ###    |
+|    #     |
+|          |
+ENDCHAR
+STARTCHAR bullet
+COMMENT U+2022 BULLET
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|   ###    |
+|  #####   |
+|  #####   |
+|  #####   |
+|   ###    |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8227
+COMMENT U+2023 TRIANGULAR BULLET
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|  ##      |
+|  ####    |
+|  ######  |
+|  ####    |
+|  ##      |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR onedotenleader
+COMMENT U+2024 ONE DOT LEADER
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|    #     |
+|   ###    |
++    #     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR twodotenleader
+COMMENT U+2025 TWO DOT LEADER
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|  #   #   |
+| ### ###  |
++  #   #   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR ellipsis
+COMMENT U+2026 HORIZONTAL ELLIPSIS
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+| #  #  #  |
+|## ## ##  |
++#  #  #   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8231
+COMMENT U+2027 HYPHENATION POINT
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|    #     |
+|   ###    |
+|    #     |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8239
+COMMENT U+202F NARROW NO-BREAK SPACE
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR perthousand
+COMMENT U+2030 PER MILLE SIGN
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^ ##       ^
+|# #       |
+|# #  #    |
+|##  #     |
+|   #      |
+|  #       |
+| #  ##  ##|
+|#  # # # #|
+|   # # # #|
++   ##  ## +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8241
+COMMENT U+2031 PER TEN THOUSAND SIGN
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^ #        ^
+|## #      |
+|#  #      |
+|  #       |
+|  #       |
+| #        |
+| #        |
+|#  #  #  #|
+|# ## ## ##|
++  #  #  # +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR minute
+COMMENT U+2032 PRIME
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^     ##   ^
+|    ##    |
+|    #     |
+|   #      |
+|  #       |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR second
+COMMENT U+2033 DOUBLE PRIME
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^   ## ##  ^
+|   #  #   |
+|  #  #    |
+| #  #     |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8244
+COMMENT U+2034 TRIPLE PRIME
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^  ## ## ##^
+|  #  #  # |
+| #  #  #  |
+|#  #  #   |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8245
+COMMENT U+2035 REVERSED PRIME
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^  ##      ^
+|   ##     |
+|    #     |
+|     #    |
+|      #   |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8246
+COMMENT U+2036 REVERSED DOUBLE PRIME
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^ ## ##    ^
+|  #  #    |
+|   #  #   |
+|    #  #  |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8247
+COMMENT U+2037 REVERSED TRIPLE PRIME
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^## ## ##  ^
+| #  #  #  |
+|  #  #  # |
+|   #  #  #|
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8248
+COMMENT U+2038 CARET
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++    #     +
+|   # #    |
+|  #   #   |
+| #     #  |
+|          |
+ENDCHAR
+STARTCHAR guilsinglleft
+COMMENT U+2039 SINGLE LEFT-POINTING ANGLE QUOTATION MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|     #    |
+|    #     |
+|   ##     |
+|  ##      |
+|   ##     |
+|    #     |
+|     #    |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR guilsinglright
+COMMENT U+203A SINGLE RIGHT-POINTING ANGLE QUOTATION MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|   #      |
+|    #     |
+|     #    |
+|     ##   |
+|     #    |
+|    #     |
+|   #      |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8251
+COMMENT U+203B REFERENCE MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^    ##    ^
+| #  ##  # |
+|  #    #  |
+|   #  #   |
+|##  ##  ##|
+|##  ##  ##|
+|   #  #   |
+|  #    #  |
+| #  ##  # |
++    ##    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR exclamdbl
+COMMENT U+203C DOUBLE EXCLAMATION MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|  #   #   |
+^ ### ###  ^
+| ### ###  |
+|  #   #   |
+|  #   #   |
+|  #   #   |
+|          |
+|          |
+|  #   #   |
+| ### ###  |
++  #   #   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8253
+COMMENT U+203D INTERROBANG
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|    #     |
+|   ####   |
+|  # # ##  |
+| #  #  #  |
+|    # #   |
+|    ##    |
+|    #     |
+|          |
+|    #     |
+|   ###    |
++    #     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8254
+COMMENT U+203E OVERLINE
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^ #######  ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8255
+COMMENT U+203F UNDERTIE
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++#       # +
+| #######  |
+|   ###    |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8256
+COMMENT U+2040 CHARACTER TIE
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|   ###    |
+| #######  |
+^#       # ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8257
+COMMENT U+2041 CARET INSERTION POINT
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|       #  |
+|      #   |
+|     #    |
++    #     +
+|   # #    |
+|  #   #   |
+| #     #  |
+|          |
+ENDCHAR
+STARTCHAR char8258
+COMMENT U+2042 ASTERISM
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^    #     ^
+|  # # #   |
+|   ###    |
+|  # # #   |
+|    #     |
+|  #   #   |
+|# # # # # |
+| ### ###  |
+|# # # # # |
++  #   #   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8259
+COMMENT U+2043 HYPHEN BULLET
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|  #####   |
+|  #####   |
+|  #####   |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR fraction
+COMMENT U+2044 FRACTION SLASH
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|        # |
+|       #  |
+|      #   |
+|     #    |
+|    #     |
+|   #      |
+|  #       |
+| #        |
++#         +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8261
+COMMENT U+2045 LEFT SQUARE BRACKET WITH QUILL
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|   ###    |
+|   #      |
+|   #      |
+|   #      |
+|   #      |
+|   #      |
+|   #      |
+|   ###    |
+|   #      |
+|   #      |
+|   #      |
++   #      +
+|   #      |
+|   #      |
+|   ###    |
+|          |
+ENDCHAR
+STARTCHAR char8262
+COMMENT U+2046 RIGHT SQUARE BRACKET WITH QUILL
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|   ###    |
+|     #    |
+^     #    ^
+|     #    |
+|     #    |
+|     #    |
+|     #    |
+|   ###    |
+|     #    |
+|     #    |
+|     #    |
++     #    +
+|     #    |
+|     #    |
+|   ###    |
+|          |
+ENDCHAR
+STARTCHAR char8263
+COMMENT U+2047 DOUBLE QUESTION MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^  ##  ##  ^
+| ######## |
+|#  ##  ## |
+|   #   #  |
+|  #   #   |
+|  #   #   |
+|          |
+|  #   #   |
+| ### ###  |
++  #   #   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8264
+COMMENT U+2048 QUESTION EXCLAMATION MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^  ##   #  ^
+| #### ### |
+|#  ## ### |
+|   #  ### |
+|  #    #  |
+|  #    #  |
+|          |
+|  #    #  |
+| ###  ### |
++  #    #  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8265
+COMMENT U+2049 EXCLAMATION QUESTION MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^ #    ##  ^
+|###  #### |
+|### #  ## |
+|###    #  |
+| #    #   |
+| #    #   |
+|          |
+| #    #   |
+|###  ###  |
++ #    #   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8266
+COMMENT U+204A TIRONIAN SIGN ET
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+| #######  |
+| #######  |
+|      #   |
+|      #   |
+|     #    |
+|     #    |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8267
+COMMENT U+204B REVERSED PILCROW SIGN
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^ #####    ^
+|  # ###   |
+|  # ####  |
+|  # ####  |
+|  # ####  |
+|  # ###   |
+|  # ##    |
+|  # #     |
+|  # #     |
++  # #     +
+|  # #     |
+|  # #     |
+|  # #     |
+|          |
+ENDCHAR
+STARTCHAR char8268
+COMMENT U+204C BLACK LEFTWARDS BULLET
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|  ######  |
+| ###  #   |
+| ###  #   |
+| ###  #   |
+|  ######  |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8269
+COMMENT U+204D BLACK RIGHTWARDS BULLET
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+| ######   |
+|  #  ###  |
+|  #  ###  |
+|  #  ###  |
+| ######   |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8270
+COMMENT U+204E LOW ASTERISK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|    #     |
+|  # # #   |
+|   ###    |
+|   ###    |
+|  # # #   |
++    #     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8271
+COMMENT U+204F REVERSED SEMICOLON
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|    #     |
+|   ###    |
+|    #     |
+|          |
+|          |
+|    #     |
+|   ###    |
++   ##     +
+|    #     |
+|     #    |
+|      #   |
+|          |
+ENDCHAR
+STARTCHAR char8272
+COMMENT U+2050 CLOSE UP
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^   ###    ^
+| #######  |
+|#       # |
+|          |
+|          |
+|          |
+|          |
+|#       # |
+| #######  |
++   ###    +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8273
+COMMENT U+2051 TWO ASTERISKS ALIGNED VERTICALLY
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|    #     |
+^  # # #   ^
+|   ###    |
+|  # # #   |
+|    #     |
+|          |
+|          |
+|    #     |
+|  # # #   |
+|   ###    |
++  # # #   +
+|    #     |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8274
+COMMENT U+2052 COMMERCIAL MINUS SIGN
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+| ##    #  |
+| ##   #   |
+|     #    |
+|    #     |
+|   #      |
+|  #   ##  |
+| #    ##  |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8275
+COMMENT U+2053 SWUNG DASH
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|  ##    # |
+| # ### #  |
+|#    ##   |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8276
+COMMENT U+2054 INVERTED UNDERTIE
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++   ###    +
+| #######  |
+|#       # |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8277
+COMMENT U+2055 FLOWER PUNCTUATION MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|    #     |
+| ## # ##  |
+| ## # ##  |
+|   ###    |
+|######### |
+|   ###    |
+| ## # ##  |
+| ## # ##  |
++    #     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8278
+COMMENT U+2056 THREE DOT PUNCTUATION
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|      #   |
+|     ###  |
+|      #   |
+|  #       |
+| ###      |
+|  #       |
+|      #   |
+|     ###  |
++      #   +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8279
+COMMENT U+2057 QUADRUPLE PRIME
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^  # # # # ^
+| # # # #  |
+|# # # #   |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8280
+COMMENT U+2058 FOUR DOT PUNCTUATION
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|    #     |
+|   ###    |
+|    #     |
+| #     #  |
+|###   ### |
+| #     #  |
+|    #     |
+|   ###    |
++    #     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8281
+COMMENT U+2059 FIVE DOT PUNCTUATION
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+| #     #  |
+|###   ### |
+| #     #  |
+|    #     |
+|   ###    |
+|    #     |
+| #     #  |
+|###   ### |
++ #     #  +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8282
+COMMENT U+205A TWO DOT PUNCTUATION
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^    #     ^
+|   ###    |
+|    #     |
+|          |
+|          |
+|          |
+|          |
+|    #     |
+|   ###    |
++    #     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8283
+COMMENT U+205B FOUR DOT MARK
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|    #     |
+|   ###    |
+|    #     |
+|  #   #   |
+| ### ###  |
+|  #   #   |
+|    #     |
+|   ###    |
++    #     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8284
+COMMENT U+205C DOTTED CROSS
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|    #     |
+| ## # ##  |
+| ## # ##  |
+|    #     |
+|######### |
+|    #     |
+| ## # ##  |
+| ## # ##  |
++    #     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8285
+COMMENT U+205D TRICOLON
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|    #     |
+^   ###    ^
+|    #     |
+|          |
+|    #     |
+|   ###    |
+|    #     |
+|          |
+|    #     |
+|   ###    |
++    #     +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8286
+COMMENT U+205E VERTICAL FOUR DOTS
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|    #     |
+|   ###    |
+|    #     |
+^          ^
+|    #     |
+|   ###    |
+|    #     |
+|          |
+|    #     |
+|   ###    |
+|    #     |
+|          |
++    #     +
+|   ###    |
+|    #     |
+|          |
+|          |
+ENDCHAR
+STARTCHAR char8287
+COMMENT U+205F MEDIUM MATHEMATICAL SPACE
+BBX 10 18 0 -4
+SWIDTH 556 0
+DWIDTH 10 0
+BITMAP
+|          |
+|          |
+|          |
+|          |
+^          ^
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++          +
+|          |
+|          |
+|          |
+|          |
+ENDCHAR
