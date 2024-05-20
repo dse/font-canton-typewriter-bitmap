@@ -1,4 +1,4 @@
-BDF_SCRIPT := $(HOME)/git/dse.d/perl-font-bdf/bin/bdf2bdf --lower-case
+BDF_SCRIPT := $(HOME)/git/dse.d/perl-font-bdf/bin/bdf2bdf --lower-case --swidth-then-dwidth --agl-names
 BDF2TTF := $(HOME)/git/dse.d/bitmapfont2ttf/bin/bitmapfont2ttf \
 	--monospace --bdf-ascent-descent --remove-line-gap --remove-ascent-add --all-ascent-descent
 
